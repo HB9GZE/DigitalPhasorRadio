@@ -8,5 +8,5 @@ org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:CustomSTM32H735Code/activeLaunc
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:CustomSTM32H735MinimumTGFX\ Debug/activeLaunchMode=run
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:CustomSTM32HTestRamFlash\ Debug/activeLaunchMode=debug
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:CustomSTM32HTestRamFlash\ Debug/activeLaunchTarget=null\:---
-org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:STM32H735G-DK/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:STM32H735G-DK/activeLaunchMode=run
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:STM32H735G-DK/activeLaunchTarget=null\:---
