@@ -1,0 +1,10 @@
+14:19:18 **** Incremental Build of configuration Debug for project CustomSTM32H735 ****
+make -j16 all 
+arm-none-eabi-size  CustomSTM32H735.elf 
+   text	   data	    bss	    dec	    hex	filename
+ 409390	    820	 816584	1226794	 12b82a	CustomSTM32H735.elf
+Finished building: default.size.stdout
+ 
+
+14:19:19 Build Finished. 0 errors, 0 warnings. (took 535ms)
+

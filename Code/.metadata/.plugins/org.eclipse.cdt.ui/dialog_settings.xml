@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="org.eclipse.cdt.uiformatter_page.white_space.c_view.inner" value="0"/>
+	<item key="org.eclipse.cdt.uiformatter_page.white_space_tab_page.node" value="0"/>
+	<item key="org.eclipse.cdt.uiformatter_page.line_wrapping_tab_page.last_category_index" value="1"/>
+	<item key="org.eclipse.cdt.uiformatter_pagemodify_dialog.preferred_width" value="1113"/>
+	<item key="org.eclipse.cdt.uiformatter_pagemodify_dialog.preferred_height" value="890"/>
+	<item key="org.eclipse.cdt.uiformatter_pagemodify_dialog.preferred_x" value="404"/>
+	<item key="org.eclipse.cdt.uiformatter_pagemodify_dialog.preferred_y" value="0"/>
+	<item key="org.eclipse.cdt.ui.codeformatter.savepath.loadpath" value="E:\OneDrive\Projects\PhasorRadio\Code\PhasorRadio1\STM32CubeIDE"/>
+	<item key="org.eclipse.cdt.utils.ui.controls.FileListControl" value="E:\OneDrive\Projects\PhasorRadio\Code\PhasorRadio1\STM32CubeIDE\SI5351"/>
+	<item key="org.eclipse.cdt.uiformatter_pagemodify_dialog.last_focus" value="5"/>
+	<item key="formatter_page.modify_dialog_tab_page.last_focus_index" value="5"/>
+	<item key="org.eclipse.cdt.ui.codeformatter.line_wrapping_tab_page.preview_line_width" value="80"/>
+	<section name="completion_proposal_size">
+		<item key="size.x" value="741"/>
+		<item key="size.y" value="252"/>
+	</section>
+	<section name="org.eclipse.cdt.ui.text.hover.CMacroExpansionExploration">
+	</section>
+	<section name="OptionalMessageDialog.hide.">
+		<item key="askReindex.detail" value="0"/>
+		<item key="askReindex" value="true"/>
+	</section>
+	<section name="RenameInformationPopup">
+	</section>
+	<section name="CRenameRefactoringInputPage">
+	</section>
+	<section name="PDOMSearchPage">
+	</section>
+	<section name="CResourceRenameRefactoringInputPage">
+		<item key="updateReferences" value="true"/>
+	</section>
+	<section name="org.eclipse.cdt.ui.text.hover.CMacroExpansionExploration.internal">
+		<item key="size.width" value="384"/>
+		<item key="size.height" value="180"/>
+	</section>
+</section>

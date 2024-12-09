@@ -1,0 +1,2 @@
+C:/ProjectsOnC/DigitalPhasorRadio/Code/PhasorRadio1/TouchGFX/generated/images/src/BitmapDatabase.cpp:37:37:const touchgfx::Bitmap::BitmapData* BitmapDatabase::getInstance()	4	static
+C:/ProjectsOnC/DigitalPhasorRadio/Code/PhasorRadio1/TouchGFX/generated/images/src/BitmapDatabase.cpp:42:10:uint16_t BitmapDatabase::getInstanceSize()	4	static

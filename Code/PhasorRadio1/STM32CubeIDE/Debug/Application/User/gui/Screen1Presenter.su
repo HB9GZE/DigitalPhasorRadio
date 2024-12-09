@@ -1,0 +1,28 @@
+../../Middlewares/ST/touchgfx/framework/include/mvp/Presenter.hpp:37:18:virtual void touchgfx::Presenter::activate()	16	static
+../../Middlewares/ST/touchgfx/framework/include/mvp/Presenter.hpp:47:18:virtual void touchgfx::Presenter::deactivate()	16	static
+../../Middlewares/ST/touchgfx/framework/include/mvp/Presenter.hpp:52:13:touchgfx::Presenter::~Presenter()	16	static
+../../Middlewares/ST/touchgfx/framework/include/mvp/Presenter.hpp:52:13:virtual touchgfx::Presenter::~Presenter()	16	static
+../../Middlewares/ST/touchgfx/framework/include/mvp/Presenter.hpp:58:5:touchgfx::Presenter::Presenter()	16	static
+../../TouchGFX/gui/include/gui/model/Model.hpp:25:6:int Model::getSmeter()	16	static
+../../TouchGFX/gui/include/gui/model/Model.hpp:30:8:float Model::getVFO()	16	static
+../../TouchGFX/gui/include/gui/model/Model.hpp:35:15:QueueElement Model::getGraph()	16	static
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:9:5:ModelListener::ModelListener()	16	static
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:11:13:ModelListener::~ModelListener()	16	static
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:11:13:virtual ModelListener::~ModelListener()	16	static
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:19:18:virtual void ModelListener::sMeterChanged()	16	static
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:20:18:virtual void ModelListener::vfoChanged()	16	static
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:21:18:virtual void ModelListener::graphChanged()	16	static
+../../TouchGFX/gui/include/gui/screen1_screen/Screen1Presenter.hpp:28:13:Screen1Presenter::~Screen1Presenter()	16	static
+../../TouchGFX/gui/include/gui/screen1_screen/Screen1Presenter.hpp:28:13:virtual Screen1Presenter::~Screen1Presenter()	16	static
+C:/ProjectsOnC/DigitalPhasorRadio/Code/PhasorRadio1/TouchGFX/gui/src/screen1_screen/Screen1Presenter.cpp:4:1:Screen1Presenter::Screen1Presenter(Screen1View&)	16	static
+C:/ProjectsOnC/DigitalPhasorRadio/Code/PhasorRadio1/TouchGFX/gui/src/screen1_screen/Screen1Presenter.cpp:10:6:virtual void Screen1Presenter::activate()	16	static
+C:/ProjectsOnC/DigitalPhasorRadio/Code/PhasorRadio1/TouchGFX/gui/src/screen1_screen/Screen1Presenter.cpp:15:6:virtual void Screen1Presenter::deactivate()	16	static
+C:/ProjectsOnC/DigitalPhasorRadio/Code/PhasorRadio1/TouchGFX/gui/src/screen1_screen/Screen1Presenter.cpp:20:6:virtual void Screen1Presenter::sMeterChanged()	24	static
+C:/ProjectsOnC/DigitalPhasorRadio/Code/PhasorRadio1/TouchGFX/gui/src/screen1_screen/Screen1Presenter.cpp:25:6:virtual void Screen1Presenter::vfoChanged()	24	static
+C:/ProjectsOnC/DigitalPhasorRadio/Code/PhasorRadio1/TouchGFX/gui/src/screen1_screen/Screen1Presenter.cpp:30:6:virtual void Screen1Presenter::graphChanged()	2752	static
+C:/ProjectsOnC/DigitalPhasorRadio/Code/PhasorRadio1/TouchGFX/gui/src/screen1_screen/Screen1Presenter.cpp:35:6:virtual void Screen1Presenter::lsbusbToggled(bool)	16	static
+C:/ProjectsOnC/DigitalPhasorRadio/Code/PhasorRadio1/TouchGFX/gui/src/screen1_screen/Screen1Presenter.cpp:42:6:virtual void Screen1Presenter::rxtxToggled(bool)	16	static
+C:/ProjectsOnC/DigitalPhasorRadio/Code/PhasorRadio1/TouchGFX/gui/src/screen1_screen/Screen1Presenter.cpp:47:6:virtual void Screen1Presenter::bandSelected(uint8_t)	16	static
+C:/ProjectsOnC/DigitalPhasorRadio/Code/PhasorRadio1/TouchGFX/gui/src/screen1_screen/Screen1Presenter.cpp:52:6:virtual void Screen1Presenter::stepSizeSelected(uint16_t)	16	static
+C:/ProjectsOnC/DigitalPhasorRadio/Code/PhasorRadio1/TouchGFX/gui/src/screen1_screen/Screen1Presenter.cpp:57:6:virtual void Screen1Presenter::graphPresenter(uint8_t)	16	static
+C:/ProjectsOnC/DigitalPhasorRadio/Code/PhasorRadio1/TouchGFX/gui/src/screen1_screen/Screen1Presenter.cpp:62:6:virtual void Screen1Presenter::wfbwSelected(uint8_t)	16	static
