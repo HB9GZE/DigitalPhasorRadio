@@ -1,0 +1,6 @@
+C:/ProjectsOnC/PhasorRadio/CustomSTM32H735Board/CustomBoardSTM32H735TestHW/Core/Src/main.c:647:6:StartDefaultTask	8	static
+C:/ProjectsOnC/PhasorRadio/CustomSTM32H735Board/CustomBoardSTM32H735TestHW/Core/Src/main.c:218:6:SystemClock_Config	120	static
+C:/ProjectsOnC/PhasorRadio/CustomSTM32H735Board/CustomBoardSTM32H735TestHW/Core/Src/main.c:276:6:PeriphCommonClock_Config	192	static
+C:/ProjectsOnC/PhasorRadio/CustomSTM32H735Board/CustomBoardSTM32H735TestHW/Core/Src/main.c:109:5:main	144	static,ignoring_inline_asm
+C:/ProjectsOnC/PhasorRadio/CustomSTM32H735Board/CustomBoardSTM32H735TestHW/Core/Src/main.c:736:6:HAL_TIM_PeriodElapsedCallback	0	static
+C:/ProjectsOnC/PhasorRadio/CustomSTM32H735Board/CustomBoardSTM32H735TestHW/Core/Src/main.c:753:6:Error_Handler	0	static

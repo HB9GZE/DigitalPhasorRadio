@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value=""/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="*PH6*"/>
+			<item value="PH6"/>
+			<item value="PWR"/>
+			<item value="SMPS"/>
+			<item value="LDO"/>
+			<item value="power"/>
+			<item value="BW"/>
+			<item value="enable"/>
+			<item value="SI5351_DRIVE_STRENGTH_2MA"/>
+			<item value="stateStepSize"/>
+			<item value="HAL_GPIO_WritePin(GPIOG"/>
+			<item value="SI5351_CRYSTAL_LOAD"/>
+			<item value="myTimerCallbackA"/>
+			<item value="myTimerI2CWindowB"/>
+			<item value="myTimerI2CWindow"/>
+		</list>
+		<list key="replacehistory">
+			<item value="WFBW"/>
+			<item value="SI5351_DRIVE_STRENGTH_8MA"/>
+			<item value="stateBand"/>
+			<item value="SI5351_DRIVE_STRENGTH_2MA"/>
+			<item value="true"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="1226"/>
+		<item key="DIALOG_Y_ORIGIN" value="229"/>
+		<item key="DIALOG_WIDTH" value="322"/>
+		<item key="DIALOG_HEIGHT" value="391"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>

@@ -1,0 +1,21 @@
+08:40:58 **** Incremental Build of configuration Debug for project STM32H735G-DK ****
+make -j16 all 
+arm-none-eabi-size  STM32H735G-DK.elf 
+   text	   data	    bss	    dec	    hex	filename
+ 344228	    304	1666898	2011430	 1eb126	STM32H735G-DK.elf
+Finished building: default.size.stdout
+ 
+08:41:13 **** Incremental Build of configuration Debug for project STM32H735G-DK ****
+make -j16 all 
+arm-none-eabi-size  STM32H735G-DK.elf 
+   text	   data	    bss	    dec	    hex	filename
+ 344228	    304	1666898	2011430	 1eb126	STM32H735G-DK.elf
+Finished building: default.size.stdout
+ 
+08:41:29 **** Incremental Build of configuration Debug for project STM32H735G-DK ****
+make -j16 all 
+arm-none-eabi-size  STM32H735G-DK.elf 
+   text	   data	    bss	    dec	    hex	filename
+ 344228	    304	1666898	2011430	 1eb126	STM32H735G-DK.elf
+Finished building: default.size.stdout
+ 

@@ -1,0 +1,8 @@
+C:/ProjectsOnC/Version_UART/PhasorRadio/Code/PhasorRadio1/TouchGFX/gui/src/model/Model.cpp:33:1:Model::Model()	16	static
+C:/ProjectsOnC/Version_UART/PhasorRadio/Code/PhasorRadio1/TouchGFX/gui/src/model/Model.cpp:39:6:void Model::tick()	1392	static
+C:/ProjectsOnC/Version_UART/PhasorRadio/Code/PhasorRadio1/TouchGFX/gui/src/model/Model.cpp:77:6:void Model::setLSBUSBState(bool)	16	static
+C:/ProjectsOnC/Version_UART/PhasorRadio/Code/PhasorRadio1/TouchGFX/gui/src/model/Model.cpp:84:6:void Model::setRXTXState(bool)	16	static
+C:/ProjectsOnC/Version_UART/PhasorRadio/Code/PhasorRadio1/TouchGFX/gui/src/model/Model.cpp:91:6:void Model::setBandState(uint8_t)	16	static
+C:/ProjectsOnC/Version_UART/PhasorRadio/Code/PhasorRadio1/TouchGFX/gui/src/model/Model.cpp:98:6:void Model::setStepSize(uint16_t)	16	static
+C:/ProjectsOnC/Version_UART/PhasorRadio/Code/PhasorRadio1/TouchGFX/gui/src/model/Model.cpp:105:6:void Model::setGraphDisplayState(uint8_t)	16	static
+C:/ProjectsOnC/Version_UART/PhasorRadio/Code/PhasorRadio1/TouchGFX/gui/src/model/Model.cpp:112:6:void Model::setWFBWState(uint8_t)	16	static
