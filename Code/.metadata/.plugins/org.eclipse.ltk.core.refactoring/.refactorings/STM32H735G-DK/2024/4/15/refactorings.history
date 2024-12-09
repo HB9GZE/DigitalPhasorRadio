@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;STM32H735G-DK/Segger/config&apos; to &apos;Config&apos;" description="Rename resource &apos;config&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Segger/config" name="Config" stamp="1712486066013" updateReferences="true"/>
-</session>

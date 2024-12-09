@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;DAC_SignalsGeneration&apos;" deleteContents="false" description="Delete resource &apos;DAC_SignalsGeneration&apos;" element1="/DAC_SignalsGeneration" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1731947447476"/>&#x0A;<refactoring comment="Delete resource &apos;ADC_DMA_Transfer&apos;" deleteContents="false" description="Delete resource &apos;ADC_DMA_Transfer&apos;" element1="/ADC_DMA_Transfer" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1731947607155"/>
-</session>

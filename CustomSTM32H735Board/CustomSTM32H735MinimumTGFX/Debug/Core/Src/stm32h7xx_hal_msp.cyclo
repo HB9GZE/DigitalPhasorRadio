@@ -1,7 +1,0 @@
-../Core/Src/stm32h7xx_hal_msp.c:64:6:HAL_MspInit	1
-../Core/Src/stm32h7xx_hal_msp.c:88:6:HAL_CRC_MspInit	2
-../Core/Src/stm32h7xx_hal_msp.c:111:6:HAL_CRC_MspDeInit	2
-../Core/Src/stm32h7xx_hal_msp.c:133:6:HAL_DMA2D_MspInit	2
-../Core/Src/stm32h7xx_hal_msp.c:156:6:HAL_DMA2D_MspDeInit	2
-../Core/Src/stm32h7xx_hal_msp.c:178:6:HAL_LTDC_MspInit	3
-../Core/Src/stm32h7xx_hal_msp.c:346:6:HAL_LTDC_MspDeInit	2

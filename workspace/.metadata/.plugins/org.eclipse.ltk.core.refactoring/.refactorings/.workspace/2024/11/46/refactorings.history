@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;STM32_Audio_DSP_5_3&apos;" deleteContents="false" description="Delete resource &apos;STM32_Audio_DSP_5_3&apos;" element1="/STM32_Audio_DSP_5_3" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1731576963900"/>&#x0A;<refactoring comment="Delete resource &apos;DSP_Test&apos;" deleteContents="false" description="Delete resource &apos;DSP_Test&apos;" element1="/DSP_Test" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1731577555797"/>
-</session>

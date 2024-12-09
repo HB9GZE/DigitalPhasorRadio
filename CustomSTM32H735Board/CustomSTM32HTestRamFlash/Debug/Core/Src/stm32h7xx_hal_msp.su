@@ -1,3 +1,0 @@
-../Core/Src/stm32h7xx_hal_msp.c:64:6:HAL_MspInit	16	static
-../Core/Src/stm32h7xx_hal_msp.c:88:6:HAL_OSPI_MspInit	88	static
-../Core/Src/stm32h7xx_hal_msp.c:244:6:HAL_OSPI_MspDeInit	16	static
